@@ -1,4 +1,4 @@
-# Week 5 Task 1
+# Week 5 Task 1!
 
 Your task is to implement the algorithms to calculate and validate check digits for different kinds of barcodes.
 
